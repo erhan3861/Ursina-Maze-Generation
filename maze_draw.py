@@ -6,7 +6,7 @@ import random
 import time
 
 MAZE_WIDTH = 39 # Width of the maze (must be odd).
-MAZE_HEIGHT = 19
+MAZE_HEIGHT = 19  # Width of the maze (must be odd).
 
 def input(key):
     if key == "m":
