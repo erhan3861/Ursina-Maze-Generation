@@ -2,7 +2,7 @@ from ursina import *
 from ursina.prefabs.first_person_controller import FirstPersonController
 from random import randint
 import maze_generator
-import random
+import random # random library
 import time
 
 MAZE_WIDTH = 39 # Width of the maze (must be odd).
